@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "title": "Algorithm Design",
+    "author": "Jon Kleinberg, Éva Tardos",
+    "category": "Computer Science",
+    "isbn": "978-0321295354",
+    "image_url": "https://i.ibb.co/cyMyJ6d/algorithom.png",
+    "description": "A comprehensive guide to algorithm design, focusing on practical and theoretical aspects."
+  },
+  {
+    "id": 27,
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "category": "Software Engineering",
+    "isbn": "978-0201835953",
+    "image_url": "https://i.ibb.co/mNS7Rnp/attachment-146565768.jpg",
+    "description": "A classic book on software project management, discussing the challenges and best practices."
+  },
+  {
+    "id": 2,
+    "title": "C Programming Language",
+    "author": "Brian W. Kernighan, Dennis M. Ritchie",
+    "category": "Programming",
+    "isbn": "978-0131103627",
+    "image_url": "https://i.ibb.co/JcYRZLR/c-programing.jpg",
+    "description": "The classic book on C programming, providing a thorough introduction to the language."
+  },
+  {
+    "id": 5,
+    "title": "Learning React",
+    "author": "Alex Banks, Eve Porcello",
+    "category": "Web Development",
+    "isbn": "978-1491954621",
+    "image_url": "https://i.ibb.co/nPfz7cx/react.png",
+    "description": "A hands-on guide to building web applications using React."
+  },
+  {
+    "id": 9,
+    "title": "Python Machine Learning",
+    "author": "Sebastian Raschka, Vahid Mirjalili",
+    "category": "Machine Learning",
+    "isbn": "978-1789955750",
+    "image_url": "https://i.ibb.co/T4Js1Vp/maching.jpg",
+    "description": "A comprehensive guide to machine learning using Python, covering both theory and practical applications."
+  },
+  {
+    "id": 13,
+    "title": "Computer Networking: A Top-Down Approach",
+    "author": "James F. Kurose, Keith W. Ross",
+    "category": "Networking",
+    "isbn": "978-0133594140",
+    "image_url": "https://i.ibb.co/fnZngFS/attachment-116739326-1.jpg",
+    "description": "A comprehensive introduction to computer networking, using a top-down approach."
+  },
+  {
+    "id": 14,
+    "title": "Modern Operating Systems",
+    "author": "Andrew S. Tanenbaum, Herbert Bos",
+    "category": "Operating Systems",
+    "isbn": "978-0133591620",
+    "image_url": "https://i.ibb.co/PFq7939/attachment-149048338-1.jpg",
+    "description": "An authoritative and up-to-date introduction to modern operating systems."
+  },
+  {
+    "id": 15,
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
+    "category": "Databases",
+    "isbn": "978-0073523323",
+    "image_url": "https://i.ibb.co/mNS7Rnp/attachment-146565768.jpg",
+    "description": "A comprehensive guide to database systems, covering both theory and practical aspects."
+  },
+  {
+    "id": 22,
+    "title": "Pro Git",
+    "author": "Scott Chacon, Ben Straub",
+    "category": "Version Control",
+    "isbn": "978-1484200773",
+    "image_url": "https://i.ibb.co/JcYRZLR/c-programing.jpg",
+    "description": "A detailed guide to Git, covering all aspects of version control with Git."
+  },
+  {
+    "id": 19,
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "category": "Software Engineering",
+    "isbn": "978-0201633610",
+    "image_url": "https://i.ibb.co/PzmVbBH/java.jpg",
+    "description": "A classic book on software design patterns, providing solutions to common design problems."
+  },
+  {
+    "id": 3,
+    "title": "Java: The Complete Reference",
+    "author": "Herbert Schildt",
+    "category": "Programming",
+    "isbn": "978-0071808552",
+    "image_url": "https://i.ibb.co/PzmVbBH/java.jpg",
+    "description": "A comprehensive guide to Java programming, covering all aspects of the language."
+  },
+  {
+    "id": 4,
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "category": "Programming",
+    "isbn": "978-1593276034",
+    "image_url": "https://i.ibb.co/Ws57kgR/python.jpg",
+    "description": "A fast-paced introduction to Python programming, ideal for beginners."
+  },
+
+  {
+    "id": 6,
+    "title": "Introduction to the Theory of Computation",
+    "author": "Michael Sipser",
+    "category": "Computer Science",
+    "isbn": "978-1133187790",
+    "image_url": "https://i.ibb.co/xmwz1BN/attachment-46397743.jpg",
+    "description": "An introduction to the theory of computation, including automata, computability, and complexity."
+  },
+  {
+    "id": 7,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell, Peter Norvig",
+    "category": "Computer Science",
+    "isbn": "978-0136042594",
+    "image_url": "https://i.ibb.co/W2zh2Ct/attachment-52113567.jpg",
+    "description": "A comprehensive and up-to-date introduction to artificial intelligence, covering both theory and practice."
+  },
+
+  {
+    "id": 11,
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "category": "Machine Learning",
+    "isbn": "978-0262035613",
+    "image_url": "https://i.ibb.co/f4n8MN4/attachment-85320130.jpg",
+    "description": "An authoritative and comprehensive textbook on deep learning."
+  },
+  {
+    "id": 12,
+    "title": "Machine Learning Yearning",
+    "author": "Andrew Ng",
+    "category": "Machine Learning",
+    "isbn": "N/A",
+    "image_url": "https://i.ibb.co/3S5PWqH/attachment-123587997.jpg",
+    "description": "A practical guide to machine learning, written by one of the field's leading experts."
+  },
+
+  {
+    "id": 23,
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "category": "Web Development",
+    "isbn": "978-1593279509",
+    "image_url": "https://i.ibb.co/PFq7939/attachment-149048338-1.jpg",
+    "description": "A modern introduction to JavaScript, covering both the language and web development."
+  }
+]
